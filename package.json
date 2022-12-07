@@ -11,7 +11,7 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-3": "^6.24.1",
     "bluebird": "^3.7.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-graphql": "^0.9.0",
     "graphql": "^15.0.0",
     "graphql-date": "^1.0.3",
